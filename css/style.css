@@ -201,6 +201,21 @@ img{
   bottom: 35%;
   animation: spin 15s linear infinite
 }
+.effect-7{
+  height: 50px;
+  width: 50px;
+  right: 10%;
+  top:30%;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 50%;
+  overflow:hidden;
+  animation: spin 10s linear infinite;
+}
+.effect-7 div{
+  width: 1px;
+  background-color: #2468d6;
+
 @KeyFrames spin{
   0%{
     transform: rotate(0deg);
