@@ -489,6 +489,7 @@ home section
   padding:0 15px;
 }
 .home-section .home-text p{
+  font-family: 'Sacramento', cursive;
   color: var(--text-black-300);
   font-size: 18px;
   text-transform: capitalize;
