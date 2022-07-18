@@ -321,16 +321,16 @@ header
   z-index: 99;
 }
 .header .logo a{
-  display: inline-block;
+  display: inline;
   text-align: center;
   line-height: 36px;
   height: 40px;
   width: 40px;
-  font-size: 24px;
+  font-size: 18px;
   color:var(--skin-color);
-  border-radius: 50%;
+  border-radius: 30%;
   border:2px solid var(--skin-color);
-  font-weight: 600;
+  font-weight: 400;
   text-transform: uppercase;
 }
 .header .hamburger-btn{
